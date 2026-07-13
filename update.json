@@ -1,9 +1,9 @@
 {
-  "version": "1.1.7",
-  "download_url": "https://github.com/Planit-Scotland/Shortbread-Releases/releases/download/v1.1.7/shortbread.zip",
-  "signature_url": "https://github.com/Planit-Scotland/Shortbread-Releases/releases/download/v1.1.7/shortbread.zip.sig",
+  "version": "1.1.8",
+  "download_url": "https://github.com/Planit-Scotland/Shortbread-Releases/releases/download/v1.1.8/shortbread.zip",
+  "signature_url": "https://github.com/Planit-Scotland/Shortbread-Releases/releases/download/v1.1.8/shortbread.zip.sig",
   "requires": "5.8",
   "requires_php": "7.4",
   "homepage": "https://github.com/Planit-Scotland/Shortbread-Releases",
-  "last_updated": "2026-07-11T08:56:44Z"
+  "last_updated": "2026-07-13T13:53:36Z"
 }
